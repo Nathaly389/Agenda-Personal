@@ -15,10 +15,10 @@ Salir de la aplicación de forma segura.
 
 # Estructura del Proyecto
 agenda-personal-java/
-│── src/
-│   └── AgendaPersonal.java
-│── README.md
-│── .gitignore
+src/
+AgendaPersonal.java
+README.md
+.gitignore
 
 .gitignore
 *.class
